@@ -939,6 +939,9 @@
 .fa-quote-right:before {
   content: "\f10e";
 }
+.fa-quora:before {
+  content: "\f2c4";
+}
 .fa-spinner:before {
   content: "\f110";
 }
